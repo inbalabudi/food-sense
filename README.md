@@ -1,2 +1,2 @@
 # food-sense
-CSS practice: Creating web page image which already exist
+CSS practice: Creating web page image which already exist (foodsense.is)
